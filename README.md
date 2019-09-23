@@ -46,4 +46,4 @@ O : Orange,
 G : Green,
 Y : Yellow
 
-This is first time I've wrote such a big code so please ignore wrong naming conventions, wrong coding conventions. Please comment for how to improve the same. Thank you.
+This is first time I've wrote such a big code so please ignore wrong naming conventions, wrong coding conventions. Thank you.
